@@ -1,0 +1,6 @@
+/Users/senakara/RiderProjects/soru/soru/bin/Debug/soru.exe
+/Users/senakara/RiderProjects/soru/soru/bin/Debug/soru.pdb
+/Users/senakara/RiderProjects/soru/soru/obj/Debug/soru.csproj.AssemblyReference.cache
+/Users/senakara/RiderProjects/soru/soru/obj/Debug/soru.csproj.CoreCompileInputs.cache
+/Users/senakara/RiderProjects/soru/soru/obj/Debug/soru.exe
+/Users/senakara/RiderProjects/soru/soru/obj/Debug/soru.pdb
